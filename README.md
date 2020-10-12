@@ -1,14 +1,27 @@
-### ### Hi there, I'm Leon Xiao - aka [xlhaw][website] 👋
+### Hi there, I'm Leon Xiao - aka [xlhaw][website] 👋
 <a href="https://sourcerer.io/xlhaw"><img src="https://avatars3.githubusercontent.com/u/28912944?v=4" height="50px" width="50px" alt=""/></a>
 <a href="https://sourcerer.io/xlhaw"><img src="https://img.shields.io/badge/Python-9%20commits-orange.svg" alt=""></a>
 
+Find me around the web:
+Gyroscope.pe, Hackerank, Linkedin
 
+### NeteaseMusic Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+<p>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<div id="/plotly/test.json" class="plotly" style="height:400px"></div>
+<script>
+Plotly.d3.json("/plotly/test.json", function(err, fig) {
+    Plotly.plot('\/plotly\/test.json', fig.data, fig.layout, {responsive: true});
+});
+</script></p>
 
 
 ### My Timeline
+TODO, iframe not supported
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1trM763vlYYgSPzY1PAy9hugbCRfmqUIcQpNYYDLww64' width='960' height='600' frameborder='0'></iframe>
 
 
 
@@ -23,7 +36,7 @@
 [<img align="left" alt="xlhaw | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="xlhaw | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br/> 
   <img align="left" alt="Leon Xiao's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xlhaw&show_icons=true&hide_border=true" />
   
   
