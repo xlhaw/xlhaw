@@ -14,5 +14,13 @@ Find me around the web:
 <br/> 
   <img align="left" alt="Leon Xiao's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xlhaw&show_icons=true&hide_border=true" />
   
-  
+
+<p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/xlhaw/count.svg" />
+</p>
+
+![](https://activity-graph.herokuapp.com/graph?username=xlhaw&theme=react-dark)
+
+
 [xlhaw]: https://www.xlhaw.com
