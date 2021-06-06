@@ -12,7 +12,7 @@ Find me around the web:
 
 
 <br/> 
-  <img align="left" alt="Leon Xiao's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xlhaw&show_icons=true&hide_border=true" />
+  <img align="left" alt="Leon Xiao's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xlhaw&count_private=true" />
   
 
 <p align="center"> 
