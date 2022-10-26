@@ -2,7 +2,7 @@
 
 Find me around the web:
 [Keybase](http://keybase.io/xlhaw)
-[Gyrosco.pe](https://me.xlhaw.com)
+[Gyrosco.pe](https://gyrosco.pe/wahlx)
 [Twitter](https://twitter.com/xlhaw)
 [Youtube](https://youtube.com/xlhaw)
 [Instagram](https://instagram.com/xlhaw)
